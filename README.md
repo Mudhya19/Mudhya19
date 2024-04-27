@@ -20,7 +20,6 @@ Currently learning data science and machine learning has driven me to continuous
 </p>
 
 ### Stats:
-
 <p align="left">
 <a href="https://github.com/Mudhya19">
     <img src="https://github-readme-stats.vercel.app/api?username=Mudhya19&hide=contribs,prs&show_icons=true&theme=tokyonight" height="180em"/>
