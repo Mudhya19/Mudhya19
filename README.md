@@ -19,7 +19,7 @@ Currently learning data science and machine learning has driven me to continuous
 <img src="https://img.shields.io/badge/Visualization-Streamlit-blue?&logo=streamlit&logoColor=blue" />
 </p>
 
-### Stats:
+### Stats Github Activity:
 <p align="left">
 <a href="https://github.com/Mudhya19">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mudhya19&show_icons=true&theme=tokyonight&include_all_commits=true"/>
