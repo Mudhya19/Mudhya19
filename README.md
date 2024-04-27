@@ -11,7 +11,7 @@ Currently learning data science and machine learning has driven me to continuous
 ### Student at:
 - Dicoding Academy
 - coding studio : Data Science Learning Path
-- AWS Cloud and Back-End Developer
+- AWS Cloud and Back-End Developer 2021
 - Lintasarta Cloudeka Digischool 2023: Machine Learning Developer Learning Path
 - IDCamp Indosat Ooredo 2023 Scholarship : Data Scientist Learning Path
 - Udemy The Data Science Course: Complete Data Science Bootcamp 2024
