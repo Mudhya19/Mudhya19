@@ -10,7 +10,7 @@ Currently learning data science and machine learning has driven me to continuous
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/OS-%20Windows-blue?&logo=windows%20&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Os-%20Windows-blue?&logo=windows%20&logoColor=blue" />
     <img src="https://img.shields.io/badge/Code-Python-blue?&logo=Python" />
     <img src="https://img.shields.io/badge/Software-%20Docker-blue?&logo=docker%20&logoColor=blue" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
@@ -21,7 +21,7 @@ Currently learning data science and machine learning has driven me to continuous
 <p align="left">
 <a href="https://github.com/Mudhya19">
     <img src="https://github-readme-stats.vercel.app/api?username=Mudhya19&hide=contribs,prs&show_icons=true&theme=tokyonight" height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudhya19&layout=compact&theme=tokyonight"  height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudhya19&layout=compact&theme=tokyonight"  height="180em"/>
 </a>
 </p>
 
