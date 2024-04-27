@@ -22,8 +22,8 @@ Currently learning data science and machine learning has driven me to continuous
 ### Stats Github Activity:
 <p align="left">
 <a href="https://github.com/Mudhya19">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mudhya19&show_icons=true&theme=tokyonight&include_all_commits=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudhya19&layout=compact&theme=tokyonight"  height="180em"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mudhya19&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 </a>
 </p>
 
