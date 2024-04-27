@@ -12,7 +12,7 @@ Currently learning data science and machine learning has driven me to continuous
 <details>
  <summary><strong>Learning experiences I've had</strong></summary>
     - Dicoding Academy </summary></br>
-    - coding studio : Data Science Learning Path </br>
+    - Coding Studio : Data Science Learning Path </br>
     - AWS Cloud and Back-End Developer 2021 </br>
     - Lintasarta Cloudeka Digischool 2023: Machine Learning Developer Learning Path </br>
     - IDCamp Indosat Ooredo 2023 Scholarship : Data Scientist Learning Path </br>
@@ -30,6 +30,7 @@ Currently learning data science and machine learning has driven me to continuous
     <img src="https://img.shields.io/badge/Dashboard-Grafana-blue?&logo=grafana&logoColor=orange" />
     <img src="https://img.shields.io/badge/Visualization-Streamlit-blue?&logo=streamlit&logoColor=red" />
     <img src="https://img.shields.io/badge/Git-Bash-blue?&logo=git&logoColor=orange" />
+ <img src="https://img.shields.io/badge/Git-Hub-blue?&logo=github&logoColor=white" />
 </p>
 
 ### Stats Github Activity:
