@@ -30,6 +30,7 @@ Currently learning data science and machine learning has driven me to continuous
      <a href="mailto:muhammmddhiauddin40@gmail.com" target="blank"><img src="https://img.shields.io/badge/muhammaddhiauddin40@gmail.com-30302f?style=flat&logo=gmail" /></a>
      <a href="https://linkedin.com/in/mudhya19" target="blank"><img src="https://img.shields.io/badge/mudhya19-30302f?style=flat&logo=linkedin" /></a>
      <a href="https://instagram.com/mudhya_" target="blank"><img src="https://img.shields.io/badge/@mudhya_-30302f?style=flat&logo=instagram" /></a>
+   <a href="https://kaggle.com/mudhya" target="blank"><img src="https://img.shields.io/badge/mudhya-30302f?style=flat&logo=kaggle" /></a>
 </p>
 
 <!--
