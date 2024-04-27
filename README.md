@@ -7,6 +7,13 @@ Currently learning data science and machine learning has driven me to continuous
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:muhammaddhiauddin40@gmail.com">Email me!</a>  </br>
 </details>
+### Student at:
+- Dicoding
+- coding studio 
+- Lintasarta Cloudeka Digischool 2023: Machine Learning Developer Learning Path
+- IDCamp Indosat Ooredo 2023 Scholarship : Data Scientist Learning Path
+- Udemy The Data Science Course: Complete Data Science Bootcamp 2024
+
 
 ### Tools:
 <p>
