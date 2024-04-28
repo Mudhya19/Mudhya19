@@ -26,7 +26,7 @@ Currently learning data science and machine learning has driven me to continuous
     <img src="https://img.shields.io/badge/Software-%20Docker-blue?&logo=docker&logoColor=blue" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/IDE-Anaconda-blue?&logo=anaconda&logoColor=green" />
- <img src="https://img.shields.io/badge/Jupiter-Notebook-blue?&logo=anaconda&logoColor=orange" />
+ <img src="https://img.shields.io/badge/Jupyter-Notebook-blue?&logo=anaconda&logoColor=orange" />
     <img src="https://img.shields.io/badge/Google-Colaboratory-blue?&logo=google%20colab&logoColor=orange" />
     <img src="https://img.shields.io/badge/Dashboard-Grafana-blue?&logo=grafana&logoColor=orange" />
     <img src="https://img.shields.io/badge/Visualization-Streamlit-blue?&logo=streamlit&logoColor=red" />
