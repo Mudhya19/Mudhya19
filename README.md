@@ -42,6 +42,10 @@ Currently learning data science and machine learning has driven me to continuous
 </a>
 </p>
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ### Let's connect!
 <p>
      <a href="mailto:muhammmddhiauddin40@gmail.com" target="blank"><img src="https://img.shields.io/badge/muhammaddhiauddin40@gmail.com-30302f?style=flat&logo=gmail" /></a>
@@ -64,6 +68,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
