@@ -29,6 +29,7 @@ Currently learning data science and machine learning has driven me to continuous
     <img src="https://img.shields.io/badge/Jupyter-Notebook-blue?&logo=anaconda&logoColor=orange" />
     <img src="https://img.shields.io/badge/Google-Colaboratory-blue?&logo=google%20colab&logoColor=orange" />
     <img src="https://img.shields.io/badge/Dashboard-Grafana-blue?&logo=grafana&logoColor=orange" />
+    <img src="https://img.shields.io/badge/Metrics-Prometheus-blue?&logo=prometheus&logoColor=orange" />
     <img src="https://img.shields.io/badge/Visualization-Streamlit-blue?&logo=streamlit&logoColor=red" />
     <img src="https://img.shields.io/badge/Git-Bash-blue?&logo=git&logoColor=orange" />
  <img src="https://img.shields.io/badge/Git-Hub-blue?&logo=github&logoColor=white" />
