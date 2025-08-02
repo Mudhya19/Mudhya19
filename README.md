@@ -21,30 +21,30 @@ Currently learning data science and machine learning has driven me to continuous
 
 ### Tools:
 <p>
-<!-- OS -->
-<img src="https://img.shields.io/badge/OS-Windows-blue?logo=microsoft&logoColor=white" />
-<!-- Code -->
-<img src="https://img.shields.io/badge/Code-Python-blue?logo=python" />
-<!-- Software -->
-<img src="https://img.shields.io/badge/Software-Docker-blue?logo=docker&logoColor=blue" />
-<!-- Code Editor -->
-<img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visual-studio-code&logoColor=white" />
-<!-- Conda -->
-<img src="https://img.shields.io/badge/Conda-Anaconda-blue?logo=anaconda&logoColor=green" />
-<!-- Jupyter -->
-<img src="https://img.shields.io/badge/Jupyter-Notebook-blue?logo=jupyter&logoColor=orange" />
-<!-- Google Colab -->
-<img src="https://img.shields.io/badge/Google-Colaboratory-blue?logo=google-colab&logoColor=orange" />
-<!-- Dashboard -->
-<img src="https://img.shields.io/badge/Dashboard-Grafana-blue?logo=grafana&logoColor=orange" />
-<!-- Metrics -->
-<img src="https://img.shields.io/badge/Metrics-Prometheus-blue?logo=prometheus&logoColor=orange" />
-<!-- Visualization -->
-<img src="https://img.shields.io/badge/Visualization-Streamlit-blue?logo=streamlit&logoColor=red" />
-<!-- Git Bash -->
-<img src="https://img.shields.io/badge/Git-Bash-blue?logo=git&logoColor=orange" />
-<!-- GitHub -->
-<img src="https://img.shields.io/badge/Git-Hub-blue?logo=github&logoColor=white" />
+   <!-- OS -->
+   <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white" />
+   <!-- Code -->
+   <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
+   <!-- Software -->
+   <img src="https://img.shields.io/badge/Software-Docker-2496ED?logo=docker&logoColor=white" />
+   <!-- Code Editor -->
+   <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
+   <!-- Conda -->
+   <img src="https://img.shields.io/badge/Conda-Anaconda-44A833?logo=anaconda&logoColor=white" />
+   <!-- Jupyter -->
+   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" />
+   <!-- Google Colab -->
+   <img src="https://img.shields.io/badge/Google-Colaboratory-F9AB00?logo=googlecolab&logoColor=white" />
+   <!-- Dashboard -->
+   <img src="https://img.shields.io/badge/Dashboard-Grafana-F46800?logo=grafana&logoColor=white" />
+   <!-- Metrics -->
+   <img src="https://img.shields.io/badge/Metrics-Prometheus-E6522C?logo=prometheus&logoColor=white" />
+   <!-- Visualization -->
+   <img src="https://img.shields.io/badge/Visualization-Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+   <!-- Git Bash -->
+   <img src="https://img.shields.io/badge/Git-Bash-F05032?logo=git&logoColor=white" />
+   <!-- GitHub -->
+   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
 
 ### Stats Github Activity:
