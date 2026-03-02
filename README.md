@@ -48,17 +48,16 @@ Currently learning data science and machine learning has driven me to continuous
 </p>
 
 ### Stats Github Activity:
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<p align="left">
+<a href="https://github.com/Mudhya19">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudhya19&layout=compact&theme=tokyonight"  height="180em"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mudhya19&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+</a>
+</p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### Let's connect!
 <p>
