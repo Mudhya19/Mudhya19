@@ -22,7 +22,7 @@ Currently learning data science and machine learning has driven me to continuous
 ### Tools:
 <p>
    <!-- OS -->
-   <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white" />
+   <!-- <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white" /> -->
    <!-- Code -->
    <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
    <!-- Software -->
