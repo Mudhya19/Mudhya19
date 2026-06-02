@@ -26,7 +26,7 @@ Currently learning data science and machine learning has driven me to continuous
    <!-- Code -->
    <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
    <!-- Software -->
-   <img src="https://img.shields.io/badge/Software-Docker-2496ED?logo=docker&logoColor=white" />
+   <img src="https://img.shields.io/badge/Hub-Docker-2496ED?logo=docker&logoColor=white" />
    <!-- Code Editor -->
    <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
    <!-- Conda -->
