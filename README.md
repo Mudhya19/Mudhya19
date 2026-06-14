@@ -28,8 +28,7 @@ Currently learning data science and machine learning has driven me to continuous
    <!-- Software -->
    <img src="https://img.shields.io/badge/Hub-Docker-2496ED?logo=docker&logoColor=white" />
    <!-- Code Editor -->
-   <!-- <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" /> -->
-   <img alt="VS Code" src="https://img.shields.io/badge/IDE-VS_Code-007ACC?logo=visualstudiocode&logoColor=white">
+   <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
    <!-- Conda -->
    <img src="https://img.shields.io/badge/Conda-Anaconda-44A833?logo=anaconda&logoColor=white" />
    <!-- Jupyter -->
