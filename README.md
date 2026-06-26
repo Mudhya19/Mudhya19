@@ -36,9 +36,9 @@ Currently learning data science and machine learning has driven me to continuous
    <!-- Google Colab -->
    <img src="https://img.shields.io/badge/Google-Colaboratory-F9AB00?logo=googlecolab&logoColor=white" />
    <!-- Dashboard -->
-   <img src="https://img.shields.io/badge/Dashboard-Grafana-F46800?logo=grafana&logoColor=white" />
+   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
    <!-- Metrics -->
-   <img src="https://img.shields.io/badge/Metrics-Prometheus-E6522C?logo=prometheus&logoColor=white" />
+   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
    <!-- Visualization -->
    <img src="https://img.shields.io/badge/Visualization-Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
    <!-- Git Bash -->
