@@ -40,9 +40,9 @@ Currently learning data science and machine learning has driven me to continuous
    <!-- Metrics -->
    <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
    <!-- Visualization -->
-   <img src="https://img.shields.io/badge/Visualization-Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
    <!-- Git Bash -->
-   <img src="https://img.shields.io/badge/Git-Bash-F05032?logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
    <!-- GitHub -->
    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
